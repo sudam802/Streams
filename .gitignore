@@ -1,0 +1,45 @@
+# Node.js
+api/node_modules/
+api/.env
+api/npm-debug.log*
+
+# React
+client/node_modules/
+client/.env
+client/build/
+client/.next/
+client/out/
+client/coverage/
+client/.eslintcache
+client/.next/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+out/
+build/
+.cache/
+tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
